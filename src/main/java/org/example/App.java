@@ -4,7 +4,7 @@ import java.util.Objects;
 import java.util.Scanner;
 
 /*
- *  UCF COP3330 Fall 2021 Assignment 16 Solution
+ *  UCF COP3330 Fall 2021 Assignment 18 Solution
  *  Copyright 2021 Tyler Coleman
  */
 public class App 
